@@ -25,3 +25,6 @@
 157.240.194.27 scontent-arn2-2.xx.fbcdn.net
 157.240.236.174 instagram.com 157.240.236.174
 157.240.236.174 www.instagram.com
+157.240.22.35 www.facebook.com
+157.240.22.35 facebook.com
+157.240.22.35 messenger.com
