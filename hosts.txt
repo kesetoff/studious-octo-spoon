@@ -6,7 +6,7 @@
 68.232.34.217 pbs.twimg.com
 54.230.129.246 na.albtls.t.co
 199.232.136.159 ton.twimg.com
-157.240.236.174 www.instagram.com
+www.instagram.com 157.240.236.174
 157.240.205.63 scontent-hel3-1.cdninstagram.com
 157.240.236.63 edge-chat.instagram.com
 129.134.30.11 cdninstagram.com
@@ -18,7 +18,7 @@
 54.192.98.249 upload-dc.albtls.t.co
 104.244.42.195 api-stream.twitter.com
 93.184.220.70 pbs.twimg.com
-157.240.236.174 instagram.com
+instagram.com 157.240.236.174
 157.240.9.52 i.instagram.com
 157.240.9.52 api.instagram.com
 185.60.218.52 graph.instagram.com
